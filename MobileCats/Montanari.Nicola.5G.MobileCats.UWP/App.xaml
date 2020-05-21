@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Montanari.Nicola._5G.MobileCats.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Montanari.Nicola._5G.MobileCats.UWP"
+    RequestedTheme="Light">
+
+</Application>
